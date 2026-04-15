@@ -1,0 +1,32 @@
+.header {
+  background-color: #1a1a2e;
+  padding: 12px 24px;
+  border-bottom: 2px solid #aa3bff;
+}
+
+.nav {
+  display: flex;
+  gap: 24px;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.link {
+  color: #e0e0e0;
+  text-decoration: none;
+  font-size: 16px;
+  font-weight: 500;
+  padding: 4px 8px;
+  border-radius: 4px;
+  transition: color 0.2s;
+}
+
+.link:hover {
+  color: #aa3bff;
+}
+
+.active {
+  color: #aa3bff;
+  font-weight: 700;
+  border-bottom: 2px solid #aa3bff;
+}
