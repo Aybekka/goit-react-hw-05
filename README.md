@@ -2,7 +2,7 @@
 
 TMDB API kullanılarak geliştirilmiş React tabanlı film arama uygulaması.
 
-🔗 **[Canlı Demo](https://goit-react-hw-05.vercel.app)** &nbsp;|&nbsp; 📁 **[Kaynak Kod](https://github.com/kullanici-adi/goit-react-hw-05)**
+🔗 **[Canlı Demo](https://goit-react-hw-05.vercel.app)** &nbsp;|&nbsp; 📁 **[Kaynak Kod](https://github.com/Aybekka/goit-react-hw-05)**
 
 ---
 
@@ -119,14 +119,14 @@ TMDB API kullanılarak geliştirilmiş React tabanlı film arama uygulaması.
 
 ## Kullanılan Teknolojiler
 
-| Teknoloji | Açıklama |
-|-----------|----------|
-| React 19 | UI kütüphanesi |
+| Teknoloji       | Açıklama          |
+| --------------- | ----------------- |
+| React 19        | UI kütüphanesi    |
 | React Router v7 | Sayfa yönlendirme |
-| Axios | HTTP istekleri |
-| TMDB API | Film verisi |
-| Vite | Build aracı |
-| CSS Modules | Stil yönetimi |
+| Axios           | HTTP istekleri    |
+| TMDB API        | Film verisi       |
+| Vite            | Build aracı       |
+| CSS Modules     | Stil yönetimi     |
 
 ---
 
